@@ -1,3 +1,4 @@
+![Typing SVG](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Suellen%20Moron&textBg=false&fontAlign=50&reversal=true&fontAlignY=41)
 ## Oii Eu sou a Suellen Moron, estudante de Desenvolvimento Front-End!
 <div><br>
   <a href="https://github.com/suemoron">
