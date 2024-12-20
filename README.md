@@ -2,8 +2,8 @@
 ## 👩🏻‍💻 Sou Desenvolvedora Front-End!
 <div><br>
   <a href="https://github.com/suemoron">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suemoron&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suemoron&layout=compact&langs_count=16&theme=ambient_gradient"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suemoron&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suemoron&layout=compact&langs_count=16&theme=cobalt"/>
 </div><br>
     
 ## 💻 Minhas habilidades
