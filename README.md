@@ -1,11 +1,13 @@
-![Typing SVG](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Suellen%20Moron&textBg=false&fontAlign=50&reversal=true&fontAlignY=41)
-## 👩🏻‍💻 Sou Desenvolvedora Front-End!
+
+![TYPING-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=8A2BE2&width=999&lines=Hi+there+%F0%9F%91%8B%2C+Welcome+to+my+Page+%F0%9F%91%8B%2C+I'm+suemoron)
+![MASTER-HEAD](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
 <div><br>
   <a href="https://github.com/suemoron">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suemoron&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suemoron&layout=compact&langs_count=16&theme=cobalt"/>
 </div><br>
-    
+
 ## 💻 Minhas habilidades
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,3 +32,9 @@
   <a href = "mailto:suellenmmoron@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/suellen-moron-803220224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 </div><br>
+
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/yyle88/yyle88/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/yyle88/yyle88/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
