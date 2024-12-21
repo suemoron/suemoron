@@ -15,7 +15,7 @@
 
 <div align="center"><h2>🔍 ESTOU ESTUDANDO...</h2></div>
 <div>
-  <div align="center"><img src="https://skillicons.dev/icons?i=javascript,react,nodejs,gmail,linkedin" /> </div>
+  <div align="center"><img src="https://skillicons.dev/icons?i=javascript,react,nodejs" /> </div>
 </div><br>
 
 <div align="center"><h2>📭 CONTATE-ME</h2></div>
