@@ -1,5 +1,5 @@
 
-![TYPING-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=8A2BE2&width=999&lines=Hi+there+%F0%9F%91%8B%2C+Welcome+to+my+Page+%F0%9F%91%8B%2C+I'm+suemoron)
+![TYPING-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=8A2BE2&width=999&lines=Hi+there+💜+Welcome+to+my+Page+👩🏻‍💻+I'm+suemoron)
 
 <div><br>
   <a href="https://github.com/suemoron">
