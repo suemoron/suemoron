@@ -1,8 +1,8 @@
-![TYPING-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=8A2BE2&width=1000&lines=Hello+💜+Welcome+to+my+Page+👩🏻‍💻+I'm+suemoron)
+![TYPING-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=blue&width=1000&lines=Hello+💙+Welcome+to+my+Page+👩🏻‍💻+I'm+suemoron)
 
 <div><br>
   <a href="https://github.com/suemoron">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=suemoron&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suemoron&layout=compact&langs_count=16&theme=midnight-purple"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=suemoron&show_icons=true&theme=Tokyonight&include_all_commits=true&count_private=true"/>  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suemoron&layout=compact&langs_count=16&theme=Tokyonight"/>
    
 </div><br>
 
