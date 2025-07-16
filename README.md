@@ -1,11 +1,10 @@
 ![TYPING-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=blue&width=1000&lines=Hello+💙+Welcome+to+my+Page+👩🏻‍💻+I'm+suemoron)
 
-<a href="https://github.com/suemoron">
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=suemoron&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/suemoron">
-  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suemoron&layout=compact&langs_count=16&theme=tokyonight"/>
-</a>
+<div><br>
+  <a href="https://github.com/suemoron">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=suemoron&show_icons=true&theme=Tokyonight&include_all_commits=true&count_private=true"/> 
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suemoron&layout=compact&langs_count=16&theme=Tokyonight"/>
+</div><br>
 <br clear="both"/>
 
 <div align="center"><h2>💻 MINHAS HABILIDADES </h2></div>
