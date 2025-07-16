@@ -2,8 +2,8 @@
 
 <div><br>
   <a href="https://github.com/suemoron">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=suemoron&show_icons=true&theme=Tokyonight&include_all_commits=true&count_private=true"/>  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suemoron&layout=compact&langs_count=16&theme=Tokyonight"/>
-   
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=suemoron&show_icons=true&theme=Tokyonight&include_all_commits=true&count_private=true"/>  
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suemoron&layout=compact&langs_count=16&theme=Tokyonight"/>
 </div><br>
 
 <div align="center"><h2>💻 MINHAS HABILIDADES </h2></div>
