@@ -8,12 +8,11 @@
 
 <div align="center"><h2>💻 MINHAS HABILIDADES </h2></div>
 <div >
-  <div align="center"><img src="https://skillicons.dev/icons?i=windows,linux,git,vscode,css,html" /> </div>
+   <div align="center"><img src="https://skillicons.dev/icons?i=git,vscode,html,css,bootstrap,python&theme=light"/></div>
 </div><br>
-
 <div align="center"><h2>🔍 ESTOU ESTUDANDO...</h2></div>
 <div>
-  <div align="center"><img src="https://skillicons.dev/icons?i=javascript,react,nodejs" /> </div>
+  <div align="center"><img src="https://skillicons.dev/icons?i=javascript,react,nodejs,python&theme=light"/></div>
 </div><br>
 
 <div align="center"><h2>📭 CONTATE-ME</h2></div>
