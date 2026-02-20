@@ -1,25 +1,48 @@
-![TYPING-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=blue&width=1000&lines=Hello+💙+Welcome+to+my+Page+👩🏻‍💻+I'm+suemoron)
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:112a3b,50:1e3a5f,100:2c5282&height=180&section=header&text=Suellen%20Moron&fontSize=50&fontColor=fff&fontAlignY=35&desc=Front-End%20Developer&descAlignY=55&descSize=18"
+  alt="Header"
+/>
+<p align="center">
+  <a href="https://my-portfolio-one-nu-65.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-suellenmoron.vercel.app-2c5282?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+</p>
 
+### About Me
 
-<br clear="both"/>
+- Junior Front-End Developer specialized in HTML, CSS, Bootstrap, and JavaScript
+- Experience in building dynamic user interfaces and interactive web applications
+- Focused on writing clean, organized, and maintainable code
+- Seeking my first opportunity as a Front-End Developer to grow and contribute to a development team
+- Learn more about my journey at my [portfolio](https://my-portfolio-one-nu-65.vercel.app/)
 
-<div align="center"><h2>💻 MINHAS HABILIDADES </h2></div>
-<div >
-   <div align="center"><img src="https://skillicons.dev/icons?i=git,vscode,html,css,bootstrap,python&theme=light"/></div>
-</div><br>
-<div align="center"><h2>🔍 ESTOU ESTUDANDO...</h2></div>
-<div>
-  <div align="center"><img src="https://skillicons.dev/icons?i=javascript,react,nodejs,python&theme=light"/></div>
-</div><br>
+---
+### Tech Stack
 
-<div align="center"><h2>📭 CONTATE-ME</h2></div>
-<div>
-  <div align="center"> 
-  <a href = "mailto:suellenmmoron@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/suellenmoron/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="center">
+  
+**Languages & Frameworks**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=javascript" alt="Languages" />
+</a>
 
-  </div>
-</div><br>
+**DevOps & Tools**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel" alt="DevOps" />
+</a>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/yyle88/yyle88/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/yyle88/yyle88/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
+**Frontend & Styling**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=bootstrap,figma" alt="Frontend" />
+</a>
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=suemoron&color=2c5282&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5282,50:1e3a5f,100:112a3b&height=180&section=footer"
+  alt="Footer"
+/>
